@@ -36,8 +36,6 @@ lib/
 
 ## 🚀 Getting Started
 
-## Clone the repository
-
 ```bash
 git clone https://github.com/sedraosman/ToDayDo.git
 
