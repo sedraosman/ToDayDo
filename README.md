@@ -27,10 +27,10 @@ The app helps users organize daily tasks and manage their productivity easily.
 ## 📂 Project Structure
 
 lib/
-─ models/
-─ screens/
-─ widgets/
-─ main.dart
+- models/
+- screens/
+- widgets/
+- main.dart
 
 ---
 
